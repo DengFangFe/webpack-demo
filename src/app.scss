@@ -13,4 +13,8 @@ body {
     h2 {
 		color: $brand-info;
     }
+    ul ,
+    li {
+        list-style: none;
+    }
 }
